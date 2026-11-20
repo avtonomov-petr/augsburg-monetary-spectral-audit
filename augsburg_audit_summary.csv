@@ -1,0 +1,5 @@
+Dataset,Shape,Mode1_Energy_%,PR_u1,CI_u1,PR_v1,CI_v1,Lsym_Gap,PR_u2,Best_Shift_Year,Min_MW_p,LOO_Max_p
+Augsburg 8-Basket (Nominal),201 x 8,75.61,0.061,"[0.049, 0.311]",0.959,"[0.923, 0.972]",0.0922,0.462,1674,1.57e-01,4.86e-01 (Flax)
+Augsburg 8-Basket (Silver),201 x 8,68.72,0.039,"[0.031, 0.183]",0.908,"[0.868, 0.931]",0.0955,0.397,1674,1.51e-01,4.27e-01 (Flax)
+Central Europe 7-Market (Nominal),201 x 7,70.79,0.17,"[0.149, 0.212]",0.972,"[0.961, 0.984]",0.0557,0.386,1672,7.17e-02,1.53e-01 (Augsburg_Oats)
+Central Europe 7-Market (Silver),201 x 7,66.78,0.154,"[0.135, 0.201]",0.921,"[0.897, 0.961]",0.0582,0.392,1672,9.04e-02,1.24e-01 (Augsburg_Oats)
